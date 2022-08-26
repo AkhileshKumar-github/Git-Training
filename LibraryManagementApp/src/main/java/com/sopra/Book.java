@@ -13,6 +13,7 @@ public class Book {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int id;
+	/* kya hua tera vada */
 
 	private String name;
 	private String author;
